@@ -16,6 +16,7 @@
 # 效果展示
 ![image](https://user-images.githubusercontent.com/44937001/211959845-89cb2a6a-d068-4f76-bd4a-1ef77b928513.png)
 ![image](https://user-images.githubusercontent.com/44937001/211960144-d77583bd-d18c-44c6-80ee-f009439e3998.png)
+![image](https://user-images.githubusercontent.com/44937001/211960241-1710e71f-4b87-463f-a8b6-51426875bef4.png)
 
 ---
 # 按键指南 
