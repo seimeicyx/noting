@@ -11,7 +11,7 @@
  * * 以视点为中心的场景漫游✔️
  
  
-点击查看发布在bilibili上的[程序视频](https://member.bilibili.com/platform/upload/video/frame?type=edit&version=new&bvid=BV1cG4y117Ug)❤️
+点击查看发布在bilibili上的[程序视频](https://www.bilibili.com/video/BV1cG4y117Ug/)❤️
 
 # 按键指南 
 * **以视点为中心的场景漫游：** ‘W’,‘S’，‘A’，‘D’前后左右移动
