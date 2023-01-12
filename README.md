@@ -14,6 +14,8 @@
 点击查看发布在bilibili上的[程序视频](
 https://www.bilibili.com/video/BV15K411i78i/?vd_source=881f21b11ef8e2832f37c7c84736a66c)❤️
 
+#按键指南 
+* *以视点为中心的场景漫游*： ‘W’,‘S’，‘A’，‘D’前后左右移动
 ---
 # 解决方案
 
