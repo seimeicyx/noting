@@ -14,6 +14,8 @@
 
 ---
 # 效果展示
+![image](https://user-images.githubusercontent.com/44937001/211959845-89cb2a6a-d068-4f76-bd4a-1ef77b928513.png)
+
 ---
 # 按键指南 
 * **以视点为中心的场景漫游：** ‘W’,‘S’，‘A’，‘D’前后左右移动
